@@ -27,7 +27,8 @@ To set up and run this project, follow these steps:
 - Clone this repository to your local machine.
 - Follow the provided notebooks and scripts to deploy the pipeline in your Azure environment.
 
-  file:///C:/Users/Raunak%20Das/Pictures/Screenshots/Screenshot%202024-06-22%20225638.png
+![Screenshot 2024-06-22 225638](https://github.com/RaunakDass/Ecommerce-Data-Pipeline/assets/142901720/e80c7fa2-aee2-42d8-9364-1b78f1da13e8)
+
 
 ## Contributing
 Feel free to submit issues or pull requests if you have suggestions for improvements or find any bugs.
