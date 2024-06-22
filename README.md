@@ -10,7 +10,7 @@ This project involves building an efficient and automated e-commerce data pipeli
 - **Medallion Architecture**: Implemented a layered data architecture:
   - **Bronze Layer**: Raw data ingestion
   - **Silver Layer**: Data cleansing and transformation
-  - **Gold Layer**: Optimized data for analytics and reporting
+  - **Gold Layer**: Optimized data for analytics and reporting, utilizing the concept of One Big Table (OBT) for simplified access and analysis.
 - **Delta Lake**: Enabled the medallion architecture to ensure ACID transactions and scalable metadata handling.
 - **Automation**: Employed Microsoft Azure Triggers to automate the pipeline, initiating data processing whenever new data is added.
 - **PySpark**: Used PySpark for data processing and transformation within Databricks.
@@ -28,6 +28,14 @@ To set up and run this project, follow these steps:
 - Follow the provided notebooks and scripts to deploy the pipeline in your Azure environment.
 
 ![Screenshot 2024-06-22 225638](https://github.com/RaunakDass/Ecommerce-Data-Pipeline/assets/142901720/e80c7fa2-aee2-42d8-9364-1b78f1da13e8)
+
+![Screenshot 2024-06-22 225702](https://github.com/RaunakDass/Ecommerce-Data-Pipeline/assets/142901720/1309c4e5-4640-4436-93dd-364d272b1148)
+
+![Screenshot 2024-06-22 230430](https://github.com/RaunakDass/Ecommerce-Data-Pipeline/assets/142901720/9d349f56-9898-479d-bfac-0fa97dd1520c)
+
+![Pasted image 20240305124127](https://github.com/RaunakDass/Ecommerce-Data-Pipeline/assets/142901720/40fe79dc-9698-4ebd-9a2d-c73c8823b44a)
+
+![Pasted image 20240305124541](https://github.com/RaunakDass/Ecommerce-Data-Pipeline/assets/142901720/2536b01b-89b8-4ca7-8ee3-9860b3ba46a6)
 
 
 ## Contributing
