@@ -27,6 +27,8 @@ To set up and run this project, follow these steps:
 - Clone this repository to your local machine.
 - Follow the provided notebooks and scripts to deploy the pipeline in your Azure environment.
 
+  file:///C:/Users/Raunak%20Das/Pictures/Screenshots/Screenshot%202024-06-22%20225638.png
+
 ## Contributing
 Feel free to submit issues or pull requests if you have suggestions for improvements or find any bugs.
 
